@@ -1,5 +1,6 @@
 body {
     font-family: "Open 'Sans", sans-serif;
+    /* background-color: rgb(220, 220, 220); */
 }
 
 h1, h2, h3 {
@@ -49,3 +50,6 @@ header h2 {
 .carousel {
     border: solid #5637DD;
 }
+
+
+
